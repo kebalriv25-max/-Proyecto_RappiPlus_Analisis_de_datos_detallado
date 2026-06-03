@@ -34,3 +34,14 @@ se realizara lo siguiente:
 - 🔁 Evaluar si los usuarios regresan (retención por cohortes)
 - 🧪 Validar si los cambios generan impacto (test estadístico)
 - 📊 Comunicar los resultados (dashboard en BI)
+
+## 📊 Visualizaciones de Power BI
+
+- **Resumen ejecutivo**
+  
+<img width="1636" height="946" alt="image" src="https://github.com/user-attachments/assets/92d496fe-b9df-4497-a6df-932b3ed022ad" />
+
+- **Análisis de detalle por producto**
+  
+<img width="1624" height="936" alt="image" src="https://github.com/user-attachments/assets/1b684cd2-87cd-4222-b6f0-8eb00b32fa9e" />
+
